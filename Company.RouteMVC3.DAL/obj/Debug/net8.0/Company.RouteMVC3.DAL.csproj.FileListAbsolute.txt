@@ -1,0 +1,12 @@
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\bin\Debug\net8.0\Company.RouteMVC3.DAL.deps.json
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\bin\Debug\net8.0\Company.RouteMVC3.DAL.dll
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\bin\Debug\net8.0\Company.RouteMVC3.DAL.pdb
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\Debug\net8.0\Company.RouteMVC3.DAL.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\Debug\net8.0\Company.RouteMVC3.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\Debug\net8.0\Company.RouteMVC3.DAL.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\Debug\net8.0\Company.RouteMVC3.DAL.AssemblyInfo.cs
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\Debug\net8.0\Company.RouteMVC3.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\Debug\net8.0\Company.RouteMVC3.DAL.dll
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\Debug\net8.0\refint\Company.RouteMVC3.DAL.dll
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\Debug\net8.0\Company.RouteMVC3.DAL.pdb
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\Debug\net8.0\ref\Company.RouteMVC3.DAL.dll
