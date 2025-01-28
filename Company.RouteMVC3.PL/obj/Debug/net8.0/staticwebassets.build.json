@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m0JjMI4jexzvAeUupRnRHb/z3HkJOp5XVawU3aLRlcU=",
+  "Hash": "nwHeeXUqr1jULaX3aF4lqU3wZNQzE6xnfMxyqu3b390=",
   "Source": "Company.RouteMVC3.PL",
   "BasePath": "_content/Company.RouteMVC3.PL",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Company.RouteMVC3.PL.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\wwwroot\\css\\AuthStyleSheet.css",
+      "SourceId": "Company.RouteMVC3.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\wwwroot\\",
+      "BasePath": "_content/Company.RouteMVC3.PL",
+      "RelativePath": "css/AuthStyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\AuthStyleSheet.css"
+    },
+    {
       "Identity": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\wwwroot\\css\\site.css",
       "SourceId": "Company.RouteMVC3.PL",
       "SourceType": "Discovered",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\wwwroot\\files\\images\\a03d719c-da5d-4f76-b908-a1371ae274171000_F_551399625_dUFhYBB9TGAZU7fHoInuQoZuFTHuFA77.jpg",
+      "SourceId": "Company.RouteMVC3.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\wwwroot\\",
+      "BasePath": "_content/Company.RouteMVC3.PL",
+      "RelativePath": "files/images/a03d719c-da5d-4f76-b908-a1371ae274171000_F_551399625_dUFhYBB9TGAZU7fHoInuQoZuFTHuFA77.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\images\\a03d719c-da5d-4f76-b908-a1371ae274171000_F_551399625_dUFhYBB9TGAZU7fHoInuQoZuFTHuFA77.jpg"
     },
     {
       "Identity": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\wwwroot\\js\\site.js",

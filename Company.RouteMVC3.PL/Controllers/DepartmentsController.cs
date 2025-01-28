@@ -1,10 +1,12 @@
 ﻿using Company.RouteMVC3.BL.Interfaces;
 using Company.RouteMVC3.BL.Repositories;
 using Company.RouteMVC3.DAL.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Company.RouteMVC3.PL.Controllers
 {
+    [Authorize]
 	public class DepartmentsController : Controller
 	{
         private readonly IUnitOfWork _unitOfWork;
@@ -18,9 +20,9 @@ namespace Company.RouteMVC3.PL.Controllers
             _unitOfWork = unitOfWork;
         }
 		[HttpGet]
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
 		{
-			var departments = _unitOfWork.DepartmentRepository.GetAll();
+			var departments = await _unitOfWork.DepartmentRepository.GetAllAsync();
 			return View(departments);
 		}
 		[HttpGet]
@@ -31,17 +33,25 @@ namespace Company.RouteMVC3.PL.Controllers
 		[HttpPost]
         [ValidateAntiForgeryToken]
 
-        public IActionResult Create(Department model)
+        public async Task<IActionResult> Create(Department model)
         {
 			if (ModelState.IsValid)
 			{
-                _unitOfWork.DepartmentRepository.Add(model);
-                var Count = _unitOfWork.Complete();
-
-                if (Count > 0)
+                try
                 {
-                    return RedirectToAction(nameof(Index));
+                    await _unitOfWork.DepartmentRepository.AddAsync(model);
+                    var Count = await _unitOfWork.CompleteAsync();
+
+                    if (Count > 0)
+                    {
+                        return RedirectToAction(nameof(Index));
+                    }
                 }
+                catch (Exception ex)
+                {
+                    ModelState.AddModelError(string.Empty, ex.Message);
+                }
+ 
             }
 
             return View(model);
@@ -49,32 +59,49 @@ namespace Company.RouteMVC3.PL.Controllers
 
         }
 
-		public IActionResult Details(int? id , string viewName="Details")
+		public async Task<IActionResult> Details(int? id)
 		{
-			if(id is null) return BadRequest(); // 400
-			
-			var department = _unitOfWork.DepartmentRepository.Get(id.Value);
-			
-			if (department == null) return NotFound(); // 404
+            try
+            {
+                if (id is null) return BadRequest(); // 400
 
-			return View(viewName,department);
+                var department = await _unitOfWork.DepartmentRepository.GetAsync(id.Value);
 
-		}
+                if (department == null) return NotFound(); // 404
+
+                return View(department);
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError(string.Empty, ex.Message);
+                return RedirectToAction("Error", "Home");
+            }
+
+        }
 		[HttpGet]
-        public IActionResult Edit(int? id)
+        public async Task<IActionResult> Edit(int? id)
         {
-            //if (id is null) return BadRequest(); // 400
+            try
+            {
+                if (id is null) return BadRequest(); // 400
 
-            //var department = _departmentRepository.Get(id.Value);
+                var department = await _unitOfWork.DepartmentRepository.GetAsync(id.Value);
 
-            //if (department == null) return NotFound(); // 404
+                if (department == null) return NotFound(); // 404
 
-            return Details(id , "Edit");
+                return View(department);
+
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError(string.Empty, ex.Message);
+                return RedirectToAction("Error", "Home");
+            }
 
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit([FromRoute]int? id ,Department model)
+        public async Task<IActionResult> Edit([FromRoute]int? id ,Department model)
         {
 			try
 			{
@@ -83,7 +110,7 @@ namespace Company.RouteMVC3.PL.Controllers
                 if (ModelState.IsValid)
                 {
                     _unitOfWork.DepartmentRepository.Update(model);
-                    var Count = _unitOfWork.Complete();
+                    var Count = await _unitOfWork.CompleteAsync();
 
                     if (Count > 0)
                     {
@@ -100,24 +127,31 @@ namespace Company.RouteMVC3.PL.Controllers
         }
 
         [HttpGet]
-        public IActionResult Delete(int? id)
+        public async Task<IActionResult> Delete(int? id)
         {
-            //if (id is null) return BadRequest(); // 400
+            try
+            {
+                if (id is null) return BadRequest(); // 400
 
-            //var department = _departmentRepository.Get(id.Value);
+                var department = await _unitOfWork.DepartmentRepository.GetAsync(id.Value);
 
-            //if (department == null) return NotFound(); // 404
+                if (department == null) return NotFound(); // 404
 
-            //return View(department);
+                return View(department);
+            }
+            catch (Exception Ex)
+            {
+                ModelState.AddModelError(string.Empty, Ex.Message);
+                return RedirectToAction("Error", "Home");
 
-            return Details(id, "Delete");
+            }
 
 
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-         public IActionResult Delete([FromRoute]int? id, Department model)
+         public async Task<IActionResult> Delete([FromRoute]int? id, Department model)
         {
             try
             {
@@ -136,12 +170,12 @@ namespace Company.RouteMVC3.PL.Controllers
                 //}
 
                 // Fetch the full model from the database
-                var department = _unitOfWork.DepartmentRepository.Get(id.Value);
+                var department = await _unitOfWork.DepartmentRepository.GetAsync(id.Value);
                 if (department == null) return NotFound(); // Ensure the record exists
 
                 // Proceed with deletion
                 _unitOfWork.DepartmentRepository.Delete(department);
-                var Count = _unitOfWork.Complete();
+                var Count = await _unitOfWork.CompleteAsync();
 
                 if (Count > 0)
                 {

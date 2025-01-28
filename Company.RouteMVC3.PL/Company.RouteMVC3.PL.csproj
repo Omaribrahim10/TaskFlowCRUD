@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\css\AuthStyleSheet.css" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.12">
       <PrivateAssets>all</PrivateAssets>
@@ -22,6 +26,7 @@
   <ItemGroup>
     <Folder Include="Mapping\Departments\" />
     <Folder Include="ViewModels\Departments\" />
+    <Folder Include="wwwroot\files\images\" />
   </ItemGroup>
 
 </Project>

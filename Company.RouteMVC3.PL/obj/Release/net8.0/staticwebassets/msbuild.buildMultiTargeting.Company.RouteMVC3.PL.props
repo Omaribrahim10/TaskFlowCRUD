@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Company.RouteMVC3.PL.props" />
+</Project>

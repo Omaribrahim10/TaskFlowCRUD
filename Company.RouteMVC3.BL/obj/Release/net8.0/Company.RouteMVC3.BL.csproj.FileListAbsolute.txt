@@ -1,0 +1,16 @@
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\bin\Release\net8.0\Company.RouteMVC3.BL.deps.json
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\bin\Release\net8.0\Company.RouteMVC3.BL.dll
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\bin\Release\net8.0\Company.RouteMVC3.BL.pdb
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\bin\Release\net8.0\Company.RouteMVC3.DAL.dll
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\bin\Release\net8.0\Company.RouteMVC3.DAL.pdb
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\obj\Release\net8.0\Company.RouteMVC3.BL.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\obj\Release\net8.0\Company.RouteMVC3.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\obj\Release\net8.0\Company.RouteMVC3.BL.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\obj\Release\net8.0\Company.RouteMVC3.BL.AssemblyInfo.cs
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\obj\Release\net8.0\Company.RouteMVC3.BL.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\obj\Release\net8.0\Company.RouteMVC3.BL.sourcelink.json
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\obj\Release\net8.0\Company..A8E9CC75.Up2Date
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\obj\Release\net8.0\Company.RouteMVC3.BL.dll
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\obj\Release\net8.0\refint\Company.RouteMVC3.BL.dll
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\obj\Release\net8.0\Company.RouteMVC3.BL.pdb
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.BL\obj\Release\net8.0\ref\Company.RouteMVC3.BL.dll

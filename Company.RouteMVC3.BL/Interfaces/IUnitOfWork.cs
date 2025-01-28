@@ -10,6 +10,6 @@ namespace Company.RouteMVC3.BL.Interfaces
     {
         public IDepartmentRepository DepartmentRepository { get;}
         public IEmployeeRepository EmployeeRepository { get;}
-        int Complete();
+        Task<int> CompleteAsync();
     }
 }

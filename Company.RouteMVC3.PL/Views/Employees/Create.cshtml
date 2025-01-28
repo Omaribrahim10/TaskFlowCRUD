@@ -1,15 +1,15 @@
 ﻿@model EmployeeViewModel
 @{
-    ViewData["Title"] = "Create";
+  ViewData["Title"] = "Create";
 }
 
-<h1>Create Employee Page</h1>
+<h1>Create Employee</h1>
 
 <br />
 <br />
 <br />
 
-<form asp-action="Create">
+<form asp-action="Create" enctype="multipart/form-data">
 
     <partial name="PartialViews/EditCreateEmployeePartialView" model="Model" />
 

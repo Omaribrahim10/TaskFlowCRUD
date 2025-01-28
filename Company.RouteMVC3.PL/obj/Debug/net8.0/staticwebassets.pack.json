@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\Company.RouteMVC3.PL.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\wwwroot\\css\\AuthStyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\AuthStyleSheet.css"
+    },
+    {
       "Id": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\wwwroot\\files\\images\\a03d719c-da5d-4f76-b908-a1371ae274171000_F_551399625_dUFhYBB9TGAZU7fHoInuQoZuFTHuFA77.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\a03d719c-da5d-4f76-b908-a1371ae274171000_F_551399625_dUFhYBB9TGAZU7fHoInuQoZuFTHuFA77.jpg"
     },
     {
       "Id": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\wwwroot\\js\\site.js",

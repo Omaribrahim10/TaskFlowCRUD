@@ -18,21 +18,21 @@ namespace Company.RouteMVC3.BL.Repositories
         {
             _context = context;
         }
-        public IEnumerable<T> GetAll()
+        public async Task<IEnumerable<T>> GetAllAsync()
         {
 			if (typeof(T) == typeof(Employee))
 			{
-				return (IEnumerable<T>) _context.Employees.Include(E => E.WorkFor).ToList();
+				return (IEnumerable<T>) await _context.Employees.Include(E => E.WorkFor).ToListAsync();
 			}
-			return _context.Set<T>().ToList();
+			return await _context.Set<T>().ToListAsync();
         }
-        public T Get(int id)
+        public async Task<T> GetAsync(int id)
         {
-            return _context.Set<T>().Find(id);
+            return await _context.Set<T>().FindAsync(id);
         }
-        public void Add(T entity)
+        public async Task AddAsync(T entity)
         {
-            _context.Add(entity);
+            await _context.AddAsync(entity);
             
         }
         public void Update(T entity)

@@ -10,3 +10,4 @@ C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\
 C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\Debug\net8.0\refint\Company.RouteMVC3.DAL.dll
 C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\Debug\net8.0\Company.RouteMVC3.DAL.pdb
 C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\Debug\net8.0\ref\Company.RouteMVC3.DAL.dll
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.DAL\obj\Debug\net8.0\Company.RouteMVC3.DAL.sourcelink.json

@@ -3,9 +3,11 @@ using System.Text;
 using Company.RouteMVC3.PL.ViewModels;
 using Company.RouteMVC3.PL.Services;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Company.RouteMVC3.PL.Controllers
 {
+	[Authorize]
 	public class HomeController : Controller
 	{
 		private readonly ILogger<HomeController> _logger;

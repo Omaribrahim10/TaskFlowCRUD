@@ -263,3 +263,9 @@ C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.PL\bin\D
 C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.PL\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.PL\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.PL\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.PL\obj\Debug\net8.0\Company.RouteMVC3.PL.sourcelink.json
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.PL\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.PL\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Omar\source\repos\Company.RouteMVC3 Solution\Company.RouteMVC3.PL\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

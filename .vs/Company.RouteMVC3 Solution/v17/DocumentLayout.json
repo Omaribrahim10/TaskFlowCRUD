@@ -3,48 +3,140 @@
   "WorkspaceRootPath": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\role\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\role\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\role\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\role\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\role\\rolepartialviews\\deletedetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\role\\rolepartialviews\\deletedetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\role\\rolepartialviews\\editcreatepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\role\\rolepartialviews\\editcreatepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\role\\addorremoveusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\role\\addorremoveusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\user\\userpartialviews\\deletedetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\user\\userpartialviews\\deletedetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\user\\userpartialviews\\editcreatepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\user\\userpartialviews\\editcreatepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\employees\\partialviews\\editcreateemployeepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\employees\\partialviews\\editcreateemployeepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\employees\\partialviews\\deletedetailsemployeepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\employees\\partialviews\\deletedetailsemployeepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\company.routemvc3.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\company.routemvc3.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51876237-804C-4357-B45B-A8D1C51FB541}|Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.bl\\company.routemvc3.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51876237-804C-4357-B45B-A8D1C51FB541}|Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj|solutionrelative:company.routemvc3.bl\\company.routemvc3.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87C0720-FA1F-467A-9982-E35CB969CBA4}|Company.RouteMVC3.DAL\\Company.RouteMVC3.DAL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.dal\\company.routemvc3.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E87C0720-FA1F-467A-9982-E35CB969CBA4}|Company.RouteMVC3.DAL\\Company.RouteMVC3.DAL.csproj|solutionrelative:company.routemvc3.dal\\company.routemvc3.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\services\\iscopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\services\\iscopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\services\\scopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\services\\scopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51876237-804C-4357-B45B-A8D1C51FB541}|Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.bl\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51876237-804C-4357-B45B-A8D1C51FB541}|Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj|solutionrelative:company.routemvc3.bl\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51876237-804C-4357-B45B-A8D1C51FB541}|Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.bl\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51876237-804C-4357-B45B-A8D1C51FB541}|Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj|solutionrelative:company.routemvc3.bl\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51876237-804C-4357-B45B-A8D1C51FB541}|Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.bl\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51876237-804C-4357-B45B-A8D1C51FB541}|Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj|solutionrelative:company.routemvc3.bl\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51876237-804C-4357-B45B-A8D1C51FB541}|Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.bl\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51876237-804C-4357-B45B-A8D1C51FB541}|Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj|solutionrelative:company.routemvc3.bl\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|c:\\users\\omar\\source\\repos\\company.routemvc3 solution\\company.routemvc3.pl\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{73EF0DC3-B362-4342-BBEF-A4C8B99B73BB}|Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj|solutionrelative:company.routemvc3.pl\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,8 +146,375 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAswOoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:12:13.01Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:54:09.359Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAIwJcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:35:21.289Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T05:56:13.886Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T06:35:50.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T06:18:55.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\appsettings.json",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T07:58:45.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\Details.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Role\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\Details.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Role\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:40:22.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Role\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\Delete.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Role\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:48:53.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Role\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Role\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T06:28:16.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteDetailsPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\RolePartialViews\\DeleteDetailsPartialView.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Role\\RolePartialViews\\DeleteDetailsPartialView.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\RolePartialViews\\DeleteDetailsPartialView.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Role\\RolePartialViews\\DeleteDetailsPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:40:58.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditCreatePartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\RolePartialViews\\EditCreatePartialView.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Role\\RolePartialViews\\EditCreatePartialView.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\RolePartialViews\\EditCreatePartialView.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Role\\RolePartialViews\\EditCreatePartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:48:02.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddOrRemoveUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\AddOrRemoveUsers.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Role\\AddOrRemoveUsers.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Role\\AddOrRemoveUsers.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Role\\AddOrRemoveUsers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T06:50:30.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:47:32.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteDetailsPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\User\\UserPartialViews\\DeleteDetailsPartialView.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\User\\UserPartialViews\\DeleteDetailsPartialView.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\User\\UserPartialViews\\DeleteDetailsPartialView.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\User\\UserPartialViews\\DeleteDetailsPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:47:25.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditCreatePartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\User\\UserPartialViews\\EditCreatePartialView.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\User\\UserPartialViews\\EditCreatePartialView.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\User\\UserPartialViews\\EditCreatePartialView.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\User\\UserPartialViews\\EditCreatePartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:46:34.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditCreateEmployeePartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\PartialViews\\EditCreateEmployeePartialView.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Employees\\PartialViews\\EditCreateEmployeePartialView.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\PartialViews\\EditCreateEmployeePartialView.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Employees\\PartialViews\\EditCreateEmployeePartialView.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:34:33.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:38:21.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteDetailsEmployeePartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\PartialViews\\DeleteDetailsEmployeePartialView.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Employees\\PartialViews\\DeleteDetailsEmployeePartialView.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\PartialViews\\DeleteDetailsEmployeePartialView.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Employees\\PartialViews\\DeleteDetailsEmployeePartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:36:13.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:42:51.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:39:01.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:37:36.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Departments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Departments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Departments\\Delete.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Departments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:37:52.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:37:43.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Departments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Departments\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:37:02.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:33:58.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:33:07.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:31:08.007Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -74,146 +533,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Company.RouteMVC3.PL\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:58:14.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ScopedService.cs",
-              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Services\\ScopedService.cs",
-              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Services\\ScopedService.cs",
-              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Services\\ScopedService.cs",
-              "RelativeToolTip": "Company.RouteMVC3.PL\\Services\\ScopedService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:58:08.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IScopedService.cs",
-              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Services\\IScopedService.cs",
-              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Services\\IScopedService.cs",
-              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Services\\IScopedService.cs",
-              "RelativeToolTip": "Company.RouteMVC3.PL\\Services\\IScopedService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:58:00.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Program.cs",
               "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Program.cs",
               "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Program.cs",
               "RelativeToolTip": "Company.RouteMVC3.PL\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwEsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:26:29.339Z",
+              "WhenOpened": "2025-01-28T08:57:54.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "Company.RouteMVC3.PL\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAmwKEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:45:11.127Z",
-              "EditorCaption": ""
+              "DocumentIndex": 27,
+              "Title": "Company.RouteMVC3.PL.csproj",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Company.RouteMVC3.PL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T07:37:29.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.BL\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Company.RouteMVC3.BL\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.BL\\UnitOfWork.cs",
-              "RelativeToolTip": "Company.RouteMVC3.BL\\UnitOfWork.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB0AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:32:34.441Z",
-              "EditorCaption": ""
+              "DocumentIndex": 28,
+              "Title": "Company.RouteMVC3.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj",
+              "RelativeToolTip": "Company.RouteMVC3.BL\\Company.RouteMVC3.BL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T07:37:28.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.BL\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Company.RouteMVC3.BL\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.BL\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "Company.RouteMVC3.BL\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:31:39.776Z",
-              "EditorCaption": ""
+              "DocumentIndex": 29,
+              "Title": "Company.RouteMVC3.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.DAL\\Company.RouteMVC3.DAL.csproj",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.DAL\\Company.RouteMVC3.DAL.csproj",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.DAL\\Company.RouteMVC3.DAL.csproj",
+              "RelativeToolTip": "Company.RouteMVC3.DAL\\Company.RouteMVC3.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T07:37:26.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.BL\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Company.RouteMVC3.BL\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.BL\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "Company.RouteMVC3.BL\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:41:27.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T07:35:28.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "Company.RouteMVC3.PL\\Controllers\\EmployeesController.cs",
-              "ViewState": "AQIAABgBAAAAAAAAAADwvzUBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:19:40.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.BL\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Company.RouteMVC3.BL\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.BL\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "Company.RouteMVC3.BL\\Repositories\\GenericRepository.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCAAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:40:19.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\Index.cshtml",
-              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Employees\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Employees\\Index.cshtml",
-              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Employees\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "DocumentIndex": 32,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Company.RouteMVC3.PL\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\source\\repos\\Company.RouteMVC3 Solution\\Company.RouteMVC3.PL\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Company.RouteMVC3.PL\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T07:28:48.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T07:32:42.488Z"
             }
           ]
         }

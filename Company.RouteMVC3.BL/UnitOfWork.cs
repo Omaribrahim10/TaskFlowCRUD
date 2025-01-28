@@ -25,9 +25,9 @@ namespace Company.RouteMVC3.BL
 
         public IEmployeeRepository EmployeeRepository => _employeeRepository;
 
-        public int Complete()
+        public async Task<int> CompleteAsync()
         {
-            return _context.SaveChanges();
+            return await _context.SaveChangesAsync();
         }
     }
 }
